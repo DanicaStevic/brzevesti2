@@ -1,1 +1,2 @@
-# brzevesti2
+# brzevesti
+Brze Vesti Selenium Automation Framework
